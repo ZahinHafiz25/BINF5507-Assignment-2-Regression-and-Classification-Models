@@ -6,7 +6,7 @@ Part 2 of this assignment involved the retrieval of the heart disease csv file. 
 
 Part 3 of this assignment involved the creation and evaluation of regression models (the target column was: 'chol' from the heart disease dataset). In this part, I performed an ElasticNet Regression analysis. R^2 and RMSE values were evaluated. In addition, Seaborn heatmaps were generated using a range of alpha values and l1_ratios. The best RMSE and R^2 values were identified. 
 
-Part 4 of this assignment involved the creation and evaluation of classification models (the target column was: 'num' from the heart disease dataset; binary classification). In this part, I performed a Logistic Regression analysis (using a range of penalty and solver values), followed by a k-NN Classification model (using a range of n_neighbors values). AUROC and AUPRC plots were generated for both models, and evaluation metrics were analyzed. 
+Part 4 of this assignment involved the creation and evaluation of classification models (the target column was: 'num' from the heart disease dataset; binary classification). In this part, I performed a Logistic Regression analysis (using a range of penalty (l1 and l2) and solver (liblinear and saga) values), followed by a k-NN Classification model (using a range of n_neighbors values). AUROC and AUPRC plots were generated for both models, and evaluation metrics were analyzed. 
 
 
 **Note: for Parts 3 and 4, appropriate packages (pandas, numpy, seaborn, matplotlib, and sklearn) were loaded, and data wrangling was performed prior to the generation and analysis of regression and classification models. In addition, the short answers have been uploaded on Blackboard. 
