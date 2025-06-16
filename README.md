@@ -9,4 +9,4 @@ Part 3 of this assignment involved the creation and evaluation of regression mod
 Part 4 of this assignment involved the creation and evaluation of classification models (the target column was: 'num' from the heart disease dataset; binary classification). In this part, I performed a Logistic Regression analysis (using a range of penalty and solver values), followed by a k-NN Classification model (using a range of n_neighbors values). AUROC and AUPRC plots were generated for both models, and evaluation metrics were analyzed. 
 
 
-**Note: for Parts 3 and 4, appropriate packages (pandas, numpy, seaborn, matplotlib, and sklearn) were loaded, and data wrangling was performed prior to the generation and analysis of regression and classification models. 
+**Note: for Parts 3 and 4, appropriate packages (pandas, numpy, seaborn, matplotlib, and sklearn) were loaded, and data wrangling was performed prior to the generation and analysis of regression and classification models. In addition, the short answers have been uploaded on Blackboard. 
